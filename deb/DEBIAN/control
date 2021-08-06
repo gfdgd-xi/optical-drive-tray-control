@@ -1,0 +1,9 @@
+Package: spark-optical-drive-tray-control
+Version: 1.0.0
+Maintainer: gfdgd xi <3025613752@qq.com>
+Homepage: https://gitee.com/gfdgd-xi/optical-drive-tray-control
+Architecture: all
+Priority: optional
+Depends: python3, python3-pip
+Description: 一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件 
+

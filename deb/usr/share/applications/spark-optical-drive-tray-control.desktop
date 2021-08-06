@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=System;
+Comment=光驱托盘控制
+Encoding=UTF-8
+Exec=/usr/bin/optical-drive-tray-control
+Icon=/opt/apps/optical-drive-tray-control/Icon.png
+MimeType=
+Name=光驱托盘控制
+StartupWMClass=光驱托盘控制
+Terminal=false
+Type=Application
